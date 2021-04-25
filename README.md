@@ -1,6 +1,6 @@
 # Gstar-UnityGame
 
-프로젝트 명 : 쿼니 (QUANNY)
+프로젝트 명 : 쿼니 (QUANNY) - 이미지 클릭시 시연 영상으로 넘어갑니다.
 
 [![sga별의커비 포폴영상](https://img.youtube.com/vi/SLJ24C1jtCc/0.jpg)](https://youtu.be/SLJ24C1jtCc?t=0s)
 
