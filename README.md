@@ -2,7 +2,7 @@
 
 프로젝트 명 : 쿼니 (QUANNY)
 
-
+[![sga별의커비 포폴영상](https://img.youtu.be/SLJ24C1jtCc?list=UUSTk6N_dhx2X9pcek_nQUvw/0.jpg)](https://youtu.be/SLJ24C1jtCc?list=UUSTk6N_dhx2X9pcek_nQUvw&?t=0s)
 
 
 콘솔 컨트롤러를 연결해 조작하는 파티용 플랫포머 게임입니다.
